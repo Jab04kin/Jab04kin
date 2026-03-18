@@ -5,3 +5,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com)
 
+<p align="left">
+  <!-- Карточка статистики -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="GitHub Stats" />
+  
+  <br/>
+
+  <!-- Карточка языков -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Top Langs" />
+</p>
